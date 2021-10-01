@@ -3,6 +3,7 @@ import logo from './logo.svg'
 import './App.css'
 import {Header,Footer,Nav,Slider} from './Components'
 import {Home} from './Pages'
+//import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 
